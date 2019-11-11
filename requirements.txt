@@ -1,5 +1,10 @@
 # local package
--e .
+tensorflow
+tensorflow-text
+jupyterlab
+flake8
+pylint
+black
 
 # external requirements
 click
